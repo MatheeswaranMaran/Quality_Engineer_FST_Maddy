@@ -26,6 +26,7 @@ public class Activity8 {
 			// Finding the "Click Me" button and clicking it
 			driver.findElement(By.id("genButton")).click();
 
+			// Wait until the word "release" appears using the Explicit Wait
 			w.until((ExpectedConditions.textToBe(By.id("word"), "release")));
 
 			// Print the word
