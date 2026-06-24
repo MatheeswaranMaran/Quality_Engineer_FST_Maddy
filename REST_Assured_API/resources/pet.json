@@ -1,0 +1,9 @@
+{
+    "name": "Shen",
+    "species": "BIRD",
+    "breed": "Peacock",
+    "ageMonths": 24,
+    "price": "400",
+    "currency": "USD",
+    "status": "AVAILABLE"
+}
